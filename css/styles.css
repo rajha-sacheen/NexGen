@@ -386,9 +386,9 @@ Hero Media Query
   left: 50%;
   transform: translateX(-50%);
   background-color: var(--white);
-  width: 18rem;
-  height: 5rem;
-  line-height: 5rem;
+  width: 16rem;
+  height: 4rem;
+  line-height: 4rem;
   text-align: center;
   font-size: 2rem;
   font-weight: 500;
